@@ -9,6 +9,6 @@ C | C++ | Python | Data Structure and Algorithms<br>
 •	Competitive Programmer<br>
 •	I'll be very happy to help if I can.<br>
 <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Show some  ❤️  by starring some of the repositories!
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Show some  ❤️  by starring some of the repositories!
 <br>
 </p>
