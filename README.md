@@ -7,13 +7,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/santosh-kumar-singh-072a54194" target="_blank"><img align="center" src="![LinkedInLogo - Copy](https://user-images.githubusercontent.com/62387061/104478808-bc9b4c80-55e8-11eb-8fe7-b6655b5fc9c5.jpg)" height="30" width="40" /></a>
-<a href="https://instagram.com/santosh.___singh" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="santosh.___singh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/santoshsingh_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="santoshsingh_1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ss7257711" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ss7257711" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/santoshkumarsingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="santoshkumarsingh" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ss7257711" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@ss7257711" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/santosh____singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="santosh____singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/santosh-kumar-singh-072a54194" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" height="30" width="40" /></a>
+&emsp;
+<a href="https://instagram.com/santosh.___singh" target="_blank"><img align="center" src="https://undullify.com/wp-content/uploads/2020/03/9-Gradient-Logo-Design-Trend-Instagram.png" alt="santosh.___singh" height="30" width="40" /></a>
+&emsp;
+<a href="https://www.codechef.com/users/santoshsingh_1" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="santoshsingh_1" height="30" width="40" /></a>
+&emsp;
+<a href="https://www.hackerrank.com/ss7257711" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="ss7257711" height="30" width="40" /></a>
+&emsp;
+<a href="https://www.leetcode.com/santoshkumarsingh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="santoshkumarsingh" height="30" width="40" /></a>
+&emsp;
+<a href="https://www.hackerearth.com/@ss7257711" target="blank"><img align="center" src="https://i.pinimg.com/originals/6b/5c/ba/6b5cba015ccc362e4842ccacf0b381e6.png" alt="@ss7257711" height="30" width="40" /></a>
+&emsp;
+<a href="https://auth.geeksforgeeks.org/user/santosh____singh" target="blank"><img align="center" src="https://yt3.ggpht.com/ytc/AAUvwnjJqZG9PvGfC3GoV27UlohMeBLxyUdhs9hUbc-Agw=s900-c-k-c0x00ffffff-no-rj" alt="santosh____singh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
