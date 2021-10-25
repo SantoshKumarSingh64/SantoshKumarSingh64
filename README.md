@@ -8,8 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/santosh-kumar-singh-072a54194" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" height="30" width="40" /></a>
-&emsp;
-<a href="https://instagram.com/santosh.___singh" target="_blank"><img align="center" src="https://undullify.com/wp-content/uploads/2020/03/9-Gradient-Logo-Design-Trend-Instagram.png" alt="santosh.___singh" height="30" width="40" /></a>
 <a href="https://twitter.com/Santosh_Singh64" target="_blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/twitter+twitter+button+twitter+logo+icon-1320190501026673072.png" alt="@Santosh_Singh64" height="55" width="70" /></a>
 </p>
 
